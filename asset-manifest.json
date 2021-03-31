@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fastidiousanalystics/main.9d5b29c0.chunk.css",
+    "main.js": "/fastidiousanalystics/main.36b4c862.chunk.js",
+    "main.js.map": "/fastidiousanalystics/main.36b4c862.chunk.js.map",
+    "runtime-main.js": "/fastidiousanalystics/runtime-main.00153ced.js",
+    "runtime-main.js.map": "/fastidiousanalystics/runtime-main.00153ced.js.map",
+    "2.4eb09cc6.chunk.js": "/fastidiousanalystics/2.4eb09cc6.chunk.js",
+    "2.4eb09cc6.chunk.js.map": "/fastidiousanalystics/2.4eb09cc6.chunk.js.map",
+    "3.9750b1c2.chunk.js": "/fastidiousanalystics/3.9750b1c2.chunk.js",
+    "3.9750b1c2.chunk.js.map": "/fastidiousanalystics/3.9750b1c2.chunk.js.map",
+    "2.4eb09cc6.chunk.js.LICENSE.txt": "/fastidiousanalystics/2.4eb09cc6.chunk.js.LICENSE.txt",
+    "index.html": "/fastidiousanalystics/index.html",
+    "main.9d5b29c0.chunk.css.map": "/fastidiousanalystics/main.9d5b29c0.chunk.css.map",
+    "media/logo.6ce24c58.svg": "/fastidiousanalystics/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "runtime-main.00153ced.js",
+    "2.4eb09cc6.chunk.js",
+    "main.9d5b29c0.chunk.css",
+    "main.36b4c862.chunk.js"
+  ]
+}
